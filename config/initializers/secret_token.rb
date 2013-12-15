@@ -1,0 +1,1 @@
+Twetter::Application.config.secret_key_base = 'c41017e85808bc1be25a9fa14669f1f2a88d4e7c891f17b539c8b9adbf1f3f647be4f8673ae12cff8931e63daa6360cfdbb077e755b76ab6fd513385fbc50a1f'
